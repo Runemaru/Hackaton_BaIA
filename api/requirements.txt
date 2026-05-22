@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+requests
+pandas
+numpy
+joblib
+lightgbm==4.3.0
+scikit-learn==1.4.2
